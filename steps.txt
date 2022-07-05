@@ -1,0 +1,14 @@
+Create header component and style, add default props and proptypes
+create feedback item and return card with rating and text
+In app create use state for feedback and setfeedback(data)
+create feedback list component and pass feedback into it and map data but if no feedback return alert (FEEDBACKLIST class)
+Create card component in shared folder and add conditional styling
+Delete func - add buton class close with fa icon, pass the handleDelete prop from feedack item and into feeedback list and into app js and run delete feedback with filter
+
+Create feedback component and get amount of reviews and e=average rating
+
+Feedback form component add h2 and form
+Create button component with props of disbled, version childeren, type.
+add conditional classname and defaultprops and proptypes
+work on input and real time validation
+rating select component and state 
